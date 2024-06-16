@@ -19,7 +19,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 800px;
+  
 }
 
 .contenedor {
@@ -76,7 +76,7 @@
 
 /* ------------------------------------------------------------------------------------------------------------------------------*/
 
-/* Para Celulares (768px o mas) */
+/* Para mi Laptopt (Desde 1242px o menos) */
 @media only screen and (max-width: 1242px){
 
   .principal{
@@ -96,7 +96,7 @@
 
 
 
-/* Para Celulares (768px o mas) */
+/* Para Celulares (Desde 768px o menos) */
 @media only screen and (max-width: 768px){
 
   .principal{
