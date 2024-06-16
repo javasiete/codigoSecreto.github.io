@@ -37,7 +37,7 @@ var paises = [
   //M
   'Maestro', 'Magia', 'Malta', 'Mancha', 'Mando', 'Manga', 'Mango', 'Mano', 'Manzana', 'Mañana', 'Marca', 'Mancha', 'Marfil',
   'Masa', 'Máscara', 'Mazo', 'Médico', 'Mercurio', 'Mesa', 'Metro', 'México', 'Micro', 'Miel', 'Millonario', 'Mina', 'Misil',
-  'Modelo', 'Módulo', 'Monitor', 'Mono', 'Mortero','Moscú', 'Motor', 'Muelle', 'Muerte', 'Muñeca', 'Muurcielágo', 'Muro',
+  'Modelo', 'Módulo', 'Monitor', 'Mono', 'Mortero','Moscú', 'Motor', 'Muelle', 'Muerte', 'Muñeca', 'Murcielágo', 'Muro',
   //N
   'Naranja', 'Nave', 'Nieve', 'Nilo', 'Ninja', 'Noche', 'Nudo', 'Nueva York', 'Negro',
   //O
