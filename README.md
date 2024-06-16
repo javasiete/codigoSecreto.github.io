@@ -1,2 +1,3 @@
-# codigoSecreto.github.io
-Juego de Mesa llamado "Codigo Secreto" version Online
+# Codigo Secreto (Version Online)
+Link:
+https://javasiete.github.io/codigoSecreto.github.io/
