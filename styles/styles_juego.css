@@ -34,7 +34,7 @@
   height: 16vh;
 
   /*Tamaño de la Letra dentro de las Tarjetas*/
-  font-size: 43px;
+  font-size: 38px;
   
   
   font-weight: bold; 
@@ -89,7 +89,7 @@
     height: 16vh;
   
     /*Tamaño de la Letra dentro de las Tarjetas*/
-    font-size: 32px;
+    font-size: 28px;
   }
 
 }
